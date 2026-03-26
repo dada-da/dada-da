@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duc Anh</h1>
-<h3 align="center">Just a front-end developer keep walking towards my goal</h3>
+<h2 align="center">Just a fullstack developer keep walking towards my goal</h3>
 
 - 🔭 I’m currently working on **management system upgrade project for the Ministry of Public Security**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anhcd.151635@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
